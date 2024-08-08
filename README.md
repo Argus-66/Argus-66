@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full Stack Development and Data Structures & Algorithms (DSA)
 - 💞️ I’m looking to collaborate on exciting software development projects and open-source contributions
 - 📫 Feel free to reach me at jqghebri@gmail.com or connect with me on https://www.linkedin.com/in/ayush-h-541948252/
-- 😄 Pronouns: He/Him
 
 <!---
 Argus-66/Argus-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
