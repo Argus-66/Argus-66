@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&animation=fadeIn)
+<div align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&width=100%&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn" />
+</div>
 
 <h2 align="center"> Hi there! 👋 I'm Ayush H (aka Argus-66) </h2>
 <h3 align="center"> A Passionate Full-Stack Developer from India 🚀 </h3>
@@ -8,9 +10,15 @@
 ## 🌎 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-h-541948252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jqghebri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-vvng.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ayush-h-541948252">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  <a href="mailto:jqghebri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+  <a href="https://portfolio-vvng.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  </a>
 </p>
 
 ---
@@ -53,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Argus-66&show_icons=true&theme=tokyonight&hide_border=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argus-66&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
+  <img src="https://streak-stats.demolab.com/?user=Argus-66&theme=tokyonight&hide_border=true" height="150px" />
 </p>
 
 ---
