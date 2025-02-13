@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I’m @Ayush H, also known by my alias Argus-66 and I'm a Full-Stack Developer from India</h2>
-- 👀 I’m interested in coding, learning, software development, and exploring new technologies
-- 🌱 I’m currently learning Full Stack Development and Data Structures & Algorithms (DSA)
-- 💞️ I’m looking to collaborate on exciting software development projects and open-source contributions
+- 👀 I’m interested in coding, learning, software development, and exploring new technologies <br>
+- 🌱 I’m currently learning Full Stack Development and Data Structures & Algorithms (DSA) <br>
+- 💞️ I’m looking to collaborate on exciting software development projects and open-source contributions <br>
 ###
 
 <div align="center">
