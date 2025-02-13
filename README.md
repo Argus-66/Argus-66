@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <img src="https://media.tenor.com/nu3aPI_DEFwAAAAM/anime-wave.gif" height="100" align="right"/>
 
 ### 🚀 Frontend
 <p>
@@ -61,14 +61,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Argus-66&show_icons=true&theme=tokyonight&hide_border=true" height="150px" />
-  <img src="https://streak-stats.demolab.com/?user=Argus-66&theme=tokyonight&hide_border=true" height="150px" />
+  
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Argus-66&theme=onedark&margin-w=15&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Argus-66&theme=onedark&margin-w=15&no-bg=true&no-frame=true&column=6&title=Commit,Repositories,Experience,Followers,PullRequest" />
 </p>
 
 ---
