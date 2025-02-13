@@ -57,19 +57,61 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Argus-66&show_icons=true&theme=tokyonight&hide_border=true" height="150px" />
-  
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Argus-66&theme=onedark&margin-w=15&no-bg=true&no-frame=true&column=6&title=Commit,Repositories,Experience,Followers,PullRequest" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/Portfolio">Portfolio</a></h3>
+      <p>
+        🔹 This portfolio showcases my work using **Next.js, React.js, and Tailwind CSS**.<br>
+        🔹 Explore my projects and web development experience.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-blue" />
+        <img src="https://img.shields.io/badge/-Next.js-black" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/Weather.github.io">Weather App</a></h3>
+      <p>
+        🌦 A lightweight weather app using **HTML, CSS, and JavaScript**.<br>
+        🌦 Fetches live weather data from WeatherAPI.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+        <img src="https://img.shields.io/badge/-HTML-orange" />
+        <img src="https://img.shields.io/badge/-CSS-blue" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/WebsiteColorThemes-2.0">Website Color Themes 2.0</a></h3>
+      <p>
+        🎨 A better version of the first Website Color Theme.<br>
+        🎨 Uses **JavaScript instead of adding 100s of lines of CSS**.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML-orange" />
+        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/Campus-Closet-E-Commerce">E-Commerce Website</a></h3>
+      <p>
+        🛍️ A sample e-commerce website for **a Project-Based Learning assignment**.<br>
+        🛍️ Demonstrates web development skills.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML-orange" />
+        <img src="https://img.shields.io/badge/-CSS-blue" />
+        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
