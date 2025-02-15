@@ -39,37 +39,37 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html"/> **HTML5**
-  <img src="https://skillicons.dev/icons?i=css"/> **CSS3**
-  <img src="https://skillicons.dev/icons?i=js"/> **JavaScript**
-  <img src="https://skillicons.dev/icons?i=react"/> **React.js**
-  <img src="https://skillicons.dev/icons?i=nextjs"/> **Next.js**
-  <img src="https://skillicons.dev/icons?i=redux"/> **Redux**
-  <img src="https://skillicons.dev/icons?i=tailwind"/> **Tailwind CSS**
+  <img src="https://skillicons.dev/icons?i=html"/> HTML5
+  <img src="https://skillicons.dev/icons?i=css"/> CSS3
+  <img src="https://skillicons.dev/icons?i=js"/> JavaScript
+  <img src="https://skillicons.dev/icons?i=react"/> React.js
+  <img src="https://skillicons.dev/icons?i=nextjs"/> Next.js
+  <img src="https://skillicons.dev/icons?i=redux"/> Redux
+  <img src="https://skillicons.dev/icons?i=tailwind"/> Tailwind CSS
 </p>
 
 ### 💾 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs"/> **Node.js**
-  <img src="https://skillicons.dev/icons?i=express"/> **Express.js**
-  <img src="https://skillicons.dev/icons?i=mongodb"/> **MongoDB**
-  <img src="https://skillicons.dev/icons?i=firebase"/> **Firebase**
-  <img src="https://skillicons.dev/icons?i=sql"/> **SQL**
+  <img src="https://skillicons.dev/icons?i=nodejs"/> Node.js
+  <img src="https://skillicons.dev/icons?i=express"/> Express.js
+  <img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
+  <img src="https://skillicons.dev/icons?i=firebase"/> Firebase
+  <img src="https://skillicons.dev/icons?i=sql"/> SQL
 </p>
 
 ### 🖥 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp"/> **C++**
-  <img src="https://skillicons.dev/icons?i=python"/> **Python**
+  <img src="https://skillicons.dev/icons?i=cpp"/> C++
+  <img src="https://skillicons.dev/icons?i=python"/> Python
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git"/> **Git**
-  <img src="https://skillicons.dev/icons?i=github"/> **GitHub**
-  <img src="https://skillicons.dev/icons?i=vscode"/> **VS Code**
-  <img src="https://skillicons.dev/icons?i=linux"/> **Linux**
-  <img src="https://skillicons.dev/icons?i=vercel"/> **Vercel**
+  <img src="https://skillicons.dev/icons?i=git"/> Git
+  <img src="https://skillicons.dev/icons?i=github"/> GitHub
+  <img src="https://skillicons.dev/icons?i=vscode"/> VS Code
+  <img src="https://skillicons.dev/icons?i=linux"/> Linux
+  <img src="https://skillicons.dev/icons?i=vercel"/> Vercel
 </p>
 
 ---
@@ -86,7 +86,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3>📌 <a href="https://github.com/Subhamk2004/DocCures-Frontend">DocCures Frontend</a></h3>
+      <h3>📌 <a href="https://github.com/Argus-66/DocCures-Frontend">DocCures Frontend</a></h3>
       <p>
         🚀 A healthcare platform frontend for **smooth appointment booking**.<br>
         🚀 Built using **React.js, Redux, and Tailwind CSS**.
