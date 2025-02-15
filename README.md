@@ -19,6 +19,9 @@
   <a href="https://portfolio-vvng.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
   </a>
+  <a href="https://drive.google.com/file/d/1T8bOf9kxTeBd6GxeE39RJvGPtXKvsb_Y/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40"/>
+  </a>
 </p>
 
 ---
@@ -35,41 +38,49 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Technologies
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html"/> HTML5
-  <img src="https://skillicons.dev/icons?i=css"/> CSS3
-  <img src="https://skillicons.dev/icons?i=js"/> JavaScript
-  <img src="https://skillicons.dev/icons?i=react"/> React.js
-  <img src="https://skillicons.dev/icons?i=nextjs"/> Next.js
-  <img src="https://skillicons.dev/icons?i=redux"/> Redux
-  <img src="https://skillicons.dev/icons?i=tailwind"/> Tailwind CSS
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html"/></a> HTML5
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css"/></a> CSS3
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a> JavaScript
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a> React.js
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs"/></a> Next.js
+  <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux"/></a> Redux
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"/></a> Tailwind CSS
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap"/></a> Bootstrap
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a> React Native
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript"/></a> TypeScript
 </p>
 
 ### 💾 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs"/> Node.js
-  <img src="https://skillicons.dev/icons?i=express"/> Express.js
-  <img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
-  <img src="https://skillicons.dev/icons?i=firebase"/> Firebase
-  <img src="https://skillicons.dev/icons?i=sql"/> SQL
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a> Node.js
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express"/></a> Express.js
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs"/></a> NestJS
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a> MongoDB
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase"/></a> Firebase
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a> MySQL
+  <a href="https://appwrite.io/" target="_blank"><img src="https://skillicons.dev/icons?i=appwrite"/></a> Appwrite
 </p>
 
 ### 🖥 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp"/> C++
-  <img src="https://skillicons.dev/icons?i=python"/> Python
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp"/></a> C++
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a> Python
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git"/> Git
-  <img src="https://skillicons.dev/icons?i=github"/> GitHub
-  <img src="https://skillicons.dev/icons?i=vscode"/> VS Code
-  <img src="https://skillicons.dev/icons?i=linux"/> Linux
-  <img src="https://skillicons.dev/icons?i=vercel"/> Vercel
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a> Git
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a> GitHub
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode"/></a> VS Code
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman"/></a> Postman
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma"/></a> Figma
+  <a href="https://chartjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a> Chart.js
+  <a href="https://linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux"/></a> Linux
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel"/></a> Vercel
 </p>
 
 ---
@@ -84,12 +95,24 @@
         🔹 A personal **portfolio website** showcasing my projects.<br>
         🔹 Built with **Next.js, React.js, and Tailwind CSS**.
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-blue" />
+        <img src="https://img.shields.io/badge/-Next.js-black" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
+      </p>
     </td>
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/DocCures-Frontend">DocCures Frontend</a></h3>
       <p>
         🚀 A healthcare platform frontend for **smooth appointment booking**.<br>
-        🚀 Built using **React.js, Redux, and Tailwind CSS**.
+        🚀 Built using **React.js, Redux, Express.js, MongoDB, and Tailwind CSS**.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-React.js-blue" />
+        <img src="https://img.shields.io/badge/-Redux-purple" />
+        <img src="https://img.shields.io/badge/-Express.js-green" />
+        <img src="https://img.shields.io/badge/-MongoDB-darkgreen" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
       </p>
     </td>
   </tr>
@@ -100,12 +123,22 @@
         🔹 A **lightweight React.js app** demonstrating seamless API integration.<br>
         🔹 Shows **real-time data fetching and rendering**.
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/-React.js-blue" />
+        <img src="https://img.shields.io/badge/-API-fetching-orange" />
+      </p>
     </td>
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/FoodFinder_Frontend">FoodFinder Frontend</a></h3>
       <p>
         🍔 A **food delivery app frontend** with cart management.<br>
-        🍔 Developed using **React.js and Express.js API**.
+        🍔 Developed using **React.js, Redux, Express.js, and MongoDB**.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-React.js-blue" />
+        <img src="https://img.shields.io/badge/-Redux-purple" />
+        <img src="https://img.shields.io/badge/-Express.js-green" />
+        <img src="https://img.shields.io/badge/-MongoDB-darkgreen" />
       </p>
     </td>
   </tr>
@@ -115,6 +148,11 @@
       <p>
         🌦 A **real-time weather web app** using WeatherAPI.<br>
         🌦 Built with **HTML, CSS, and JavaScript**.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML-orange" />
+        <img src="https://img.shields.io/badge/-CSS-blue" />
+        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
       </p>
     </td>
   </tr>
