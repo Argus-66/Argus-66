@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&width=100%&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn" />
 </div>
 
-<h2 align="center"> Hi there! 👋 I'm Ayush H (aka Argus-66) </h2>
+<h2 align="center" style="font-size: 22px;"> Hi there! 👋 I'm Ayush H (aka Argus-66) </h2>
 <h3 align="center"> A Passionate Full-Stack Developer from India 🚀 </h3>
 
 ---
@@ -10,49 +10,66 @@
 ## 🌎 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-h-541948252">
+  <a href="https://linkedin.com/in/ayush-h-541948252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="mailto:jqghebri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
-  <a href="https://portfolio-vvng.vercel.app/">
+  <a href="https://portfolio-vvng.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧑‍💻 <span style="font-size: 20px;">About Me</span>
 
-- 🔭 I’m working on **exciting software projects and open-source contributions**.
-- 🌱 Currently learning **AI/ML with Python** alongside **Full-Stack Development**.
-- 🚀 Tech Stack: **Next.js, React.js, Node.js, Express, Firebase, MongoDB, SQL, Redux, React Native**.
-- 💡 Always exploring new technologies and pushing my limits.
-- 📬 Reach me via **[Email](mailto:jqghebri@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/ayush-h-541948252/)**.
+<img src="https://media.tenor.com/nu3aPI_DEFwAAAAM/anime-wave.gif" height="100" align="right"/>
+
+- 🔥 I'm a **Full-Stack Developer** with a passion for building scalable applications and engaging **open-source projects**.
+- 💡 I love exploring **new technologies**, especially in **blockchain, AI, and cloud computing**.
+- 🚀 Currently building **a blockchain-based portfolio management system** while learning AI/ML with Python.
+- 🎯 My goal is to bridge **technology and real-world impact**, developing solutions that enhance user experiences.
+- 🛠 Constantly refining my skills and pushing the boundaries of **modern web development**.
 
 ---
 
-## 🛠 Tech Stack <img src="https://media.tenor.com/nu3aPI_DEFwAAAAM/anime-wave.gif" height="100" align="right"/>
+## 🛠 Tech Stack
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html"/> **HTML5**
+  <img src="https://skillicons.dev/icons?i=css"/> **CSS3**
+  <img src="https://skillicons.dev/icons?i=js"/> **JavaScript**
+  <img src="https://skillicons.dev/icons?i=react"/> **React.js**
+  <img src="https://skillicons.dev/icons?i=nextjs"/> **Next.js**
+  <img src="https://skillicons.dev/icons?i=redux"/> **Redux**
+  <img src="https://skillicons.dev/icons?i=tailwind"/> **Tailwind CSS**
 </p>
 
 ### 💾 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs"/> **Node.js**
+  <img src="https://skillicons.dev/icons?i=express"/> **Express.js**
+  <img src="https://skillicons.dev/icons?i=mongodb"/> **MongoDB**
+  <img src="https://skillicons.dev/icons?i=firebase"/> **Firebase**
+  <img src="https://skillicons.dev/icons?i=sql"/> **SQL**
 </p>
 
 ### 🖥 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp"/> **C++**
+  <img src="https://skillicons.dev/icons?i=python"/> **Python**
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=git"/> **Git**
+  <img src="https://skillicons.dev/icons?i=github"/> **GitHub**
+  <img src="https://skillicons.dev/icons?i=vscode"/> **VS Code**
+  <img src="https://skillicons.dev/icons?i=linux"/> **Linux**
+  <img src="https://skillicons.dev/icons?i=vercel"/> **Vercel**
 </p>
 
 ---
@@ -64,50 +81,40 @@
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/Portfolio">Portfolio</a></h3>
       <p>
-        🔹 This portfolio showcases my work using **Next.js, React.js, and Tailwind CSS**.<br>
-        🔹 Explore my projects and web development experience.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-blue" />
-        <img src="https://img.shields.io/badge/-Next.js-black" />
-        <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
+        🔹 A personal **portfolio website** showcasing my projects.<br>
+        🔹 Built with **Next.js, React.js, and Tailwind CSS**.
       </p>
     </td>
     <td width="50%">
-      <h3>📌 <a href="https://github.com/Argus-66/Weather.github.io">Weather App</a></h3>
+      <h3>📌 <a href="https://github.com/Subhamk2004/DocCures-Frontend">DocCures Frontend</a></h3>
       <p>
-        🌦 A lightweight weather app using **HTML, CSS, and JavaScript**.<br>
-        🌦 Fetches live weather data from WeatherAPI.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
-        <img src="https://img.shields.io/badge/-HTML-orange" />
-        <img src="https://img.shields.io/badge/-CSS-blue" />
+        🚀 A healthcare platform frontend for **smooth appointment booking**.<br>
+        🚀 Built using **React.js, Redux, and Tailwind CSS**.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📌 <a href="https://github.com/Argus-66/WebsiteColorThemes-2.0">Website Color Themes 2.0</a></h3>
+      <h3>📌 <a href="https://github.com/Argus-66/DataFetchReact">DataFetchReact</a></h3>
       <p>
-        🎨 A better version of the first Website Color Theme.<br>
-        🎨 Uses **JavaScript instead of adding 100s of lines of CSS**.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-HTML-orange" />
-        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+        🔹 A **lightweight React.js app** demonstrating seamless API integration.<br>
+        🔹 Shows **real-time data fetching and rendering**.
       </p>
     </td>
     <td width="50%">
-      <h3>📌 <a href="https://github.com/Argus-66/Campus-Closet-E-Commerce">E-Commerce Website</a></h3>
+      <h3>📌 <a href="https://github.com/Argus-66/FoodFinder_Frontend">FoodFinder Frontend</a></h3>
       <p>
-        🛍️ A sample e-commerce website for **a Project-Based Learning assignment**.<br>
-        🛍️ Demonstrates web development skills.
+        🍔 A **food delivery app frontend** with cart management.<br>
+        🍔 Developed using **React.js and Express.js API**.
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/Weather.github.io">Weather App</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/-HTML-orange" />
-        <img src="https://img.shields.io/badge/-CSS-blue" />
-        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+        🌦 A **real-time weather web app** using WeatherAPI.<br>
+        🌦 Built with **HTML, CSS, and JavaScript**.
       </p>
     </td>
   </tr>
