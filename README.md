@@ -92,8 +92,8 @@
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/Portfolio">Portfolio</a></h3>
       <p>
-        🔹 A personal **portfolio website** showcasing my projects.<br>
-        🔹 Built with **Next.js, React.js, and Tailwind CSS**.
+        🔹 A personal portfolio website showcasing my projects.<br>
+        🔹 Showcasing my journey, projects, and skills in one place.<br><br><br>
       </p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-blue" />
@@ -104,8 +104,8 @@
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/DocCures-Frontend">DocCures Frontend</a></h3>
       <p>
-        🚀 A healthcare platform frontend for **smooth appointment booking**.<br>
-        🚀 Built using **React.js, Redux, Express.js, MongoDB, and Tailwind CSS**.
+        🚀 A healthcare platform frontend for smooth appointment booking.<br>
+        🚀 A modern solution for efficient and stress-free healthcare management.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-React.js-blue" />
@@ -120,19 +120,19 @@
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/DataFetchReact">DataFetchReact</a></h3>
       <p>
-        🔹 A **lightweight React.js app** demonstrating seamless API integration.<br>
-        🔹 Shows **real-time data fetching and rendering**.
+        🔹 A lightweight React.js app demonstrating seamless API integration.<br>
+        🔹 Shows real-time data fetching and rendering.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-React.js-blue" />
-        <img src="https://img.shields.io/badge/-API-fetching-orange" />
+        <img src="https://img.shields.io/badge/-API.fetching-orange" />
       </p>
     </td>
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/FoodFinder_Frontend">FoodFinder Frontend</a></h3>
       <p>
-        🍔 A **food delivery app frontend** with cart management.<br>
-        🍔 Developed using **React.js, Redux, Express.js, and MongoDB**.
+        🍔 A food delivery app frontend with cart management.<br>
+        🍔 Providing a seamless connection between users and restaurants.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-React.js-blue" />
@@ -146,8 +146,8 @@
     <td width="50%">
       <h3>📌 <a href="https://github.com/Argus-66/Weather.github.io">Weather App</a></h3>
       <p>
-        🌦 A **real-time weather web app** using WeatherAPI.<br>
-        🌦 Built with **HTML, CSS, and JavaScript**.
+        🌦 A real-time weather web app using WeatherAPI.<br>
+        🌦 Making weather tracking effortless and accessible.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-HTML-orange" />
