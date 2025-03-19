@@ -22,6 +22,9 @@
   <a href="https://drive.google.com/file/d/110MK2Lx9JFrijcqs_0PzAfrIhXh8IMwQ/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40"/>
   </a>
+  <a href="https://buymeacoffee.com/argus" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="40"/>
+  </a>
 </p>
 
 ---
